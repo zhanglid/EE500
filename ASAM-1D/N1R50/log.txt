@@ -1,0 +1,38 @@
+./Main
+File Opening done 
+NOISE MODE : No Noise
+
+Number of Testing Points: 2000	2000
+Number of Training Samples: 1000	1000
+Number of Rules: 50
+Range of x: 0<-->5.997
+
+Epoch Size: 2000
+
+ 
+
+iter# 0: Min. Error = 2.26924e-06 using Tri fit function.
+iter# 2000: Min. Error = 1.9336e-06 using Tri fit function.
+iter# 4000: Min. Error = 1.90541e-06 using Tri fit function.
+iter# 6000: Min. Error = 1.88923e-06 using Tri fit function.
+iter# 8000: Min. Error = 1.87788e-06 using Tri fit function.
+iter# 10000: Min. Error = 1.86916e-06 using Tri fit function.
+iter# 12000: Min. Error = 1.86208e-06 using Tri fit function.
+iter# 14000: Min. Error = 1.85612e-06 using Tri fit function.
+iter# 16000: Min. Error = 1.85099e-06 using Tri fit function.
+iter# 18000: Min. Error = 1.84648e-06 using Tri fit function.
+iter# 20000: Min. Error = 1.84247e-06 using Tri fit function.
+iter# 22000: Min. Error = 1.83885e-06 using Tri fit function.
+iter# 24000: Min. Error = 1.83555e-06 using Tri fit function.
+iter# 26000: Min. Error = 1.83253e-06 using Tri fit function.
+iter# 28000: Min. Error = 1.82974e-06 using Tri fit function.
+iter# 30000: Min. Error = 1.82714e-06 using Tri fit function.
+iter# 32000: Min. Error = 1.82472e-06 using Tri fit function.
+iter# 34000: Min. Error = 1.82245e-06 using Tri fit function.
+iter# 36000: Min. Error = 1.82032e-06 using Tri fit function.
+iter# 38000: Min. Error = 1.8183e-06 using Tri fit function.
+
+MY_FUNCTION = sin(xin[i])
+NOISE_TYPE = 1INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.00
+RULE_NUMBER = 2

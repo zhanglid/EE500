@@ -1,0 +1,38 @@
+./Main
+File Opening done 
+NOISE MODE : Uniform
+
+Number of Testing Points: 2000	2000
+Number of Training Samples: 1000	1000
+Number of Rules: 25
+Range of x: 0<-->5.997
+
+Epoch Size: 2000
+
+ 
+
+iter# 0: Min. Error = 0.00105712 using Gauss fit function.
+iter# 2000: Min. Error = 0.000844628 using Gauss fit function.
+iter# 4000: Min. Error = 0.000842246 using Gauss fit function.
+iter# 6000: Min. Error = 0.000841058 using Gauss fit function.
+iter# 8000: Min. Error = 0.000840292 using Gauss fit function.
+iter# 10000: Min. Error = 0.000839736 using Gauss fit function.
+iter# 12000: Min. Error = 0.000839306 using Gauss fit function.
+iter# 14000: Min. Error = 0.000838958 using Gauss fit function.
+iter# 16000: Min. Error = 0.000838667 using Gauss fit function.
+iter# 18000: Min. Error = 0.000838419 using Gauss fit function.
+iter# 20000: Min. Error = 0.000838203 using Gauss fit function.
+iter# 22000: Min. Error = 0.000838012 using Gauss fit function.
+iter# 24000: Min. Error = 0.000837841 using Gauss fit function.
+iter# 26000: Min. Error = 0.000837688 using Gauss fit function.
+iter# 28000: Min. Error = 0.000837548 using Gauss fit function.
+iter# 30000: Min. Error = 0.00083742 using Gauss fit function.
+iter# 32000: Min. Error = 0.000837303 using Gauss fit function.
+iter# 34000: Min. Error = 0.000837194 using Gauss fit function.
+iter# 36000: Min. Error = 0.000837092 using Gauss fit function.
+iter# 38000: Min. Error = 0.000836998 using Gauss fit function.
+
+MY_FUNCTION = sin(xin[i])
+NOISE_TYPE = 1INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.00
+RULE_NUMBER = 2

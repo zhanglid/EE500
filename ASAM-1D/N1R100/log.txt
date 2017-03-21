@@ -1,0 +1,38 @@
+./Main
+File Opening done 
+NOISE MODE : No Noise
+
+Number of Testing Points: 2000	2000
+Number of Training Samples: 1000	1000
+Number of Rules: 100
+Range of x: 0<-->5.997
+
+Epoch Size: 2000
+
+ 
+
+iter# 0: Min. Error = 5.62794e-07 using Tri fit function.
+iter# 2000: Min. Error = 1.72555e-07 using Sinc fit function.
+iter# 4000: Min. Error = 1.54905e-07 using Sinc fit function.
+iter# 6000: Min. Error = 1.47049e-07 using Sinc fit function.
+iter# 8000: Min. Error = 1.42218e-07 using Sinc fit function.
+iter# 10000: Min. Error = 1.38804e-07 using Sinc fit function.
+iter# 12000: Min. Error = 1.36198e-07 using Sinc fit function.
+iter# 14000: Min. Error = 1.34107e-07 using Sinc fit function.
+iter# 16000: Min. Error = 1.32372e-07 using Sinc fit function.
+iter# 18000: Min. Error = 1.30894e-07 using Sinc fit function.
+iter# 20000: Min. Error = 1.29612e-07 using Sinc fit function.
+iter# 22000: Min. Error = 1.28482e-07 using Sinc fit function.
+iter# 24000: Min. Error = 1.27473e-07 using Sinc fit function.
+iter# 26000: Min. Error = 1.26565e-07 using Sinc fit function.
+iter# 28000: Min. Error = 1.25739e-07 using Sinc fit function.
+iter# 30000: Min. Error = 1.24983e-07 using Sinc fit function.
+iter# 32000: Min. Error = 1.24286e-07 using Sinc fit function.
+iter# 34000: Min. Error = 1.23641e-07 using Sinc fit function.
+iter# 36000: Min. Error = 1.23041e-07 using Sinc fit function.
+iter# 38000: Min. Error = 1.2248e-07 using Sinc fit function.
+
+MY_FUNCTION = sin(xin[i])
+NOISE_TYPE = 1INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.00
+RULE_NUMBER = 2

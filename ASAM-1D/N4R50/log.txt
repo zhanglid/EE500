@@ -1,0 +1,85 @@
+./Main
+File Opening done 
+NOISE MODE : Cauchy
+
+Number of Testing Points: 2000	2000
+Number of Training Samples: 1000	1000
+Number of Rules: 50
+Range of x: 0<-->5.997
+
+Epoch Size: 2000
+
+ 
+
+iter# 0: Min. Error = 0.320093 using Gauss fit function.
+densinc = -0.0283797 < 0!!
+densinc = -0.43643 < 0!!
+densinc = -0.324906 < 0!!
+densinc = -0.190599 < 0!!
+densinc = -0.0950685 < 0!!
+densinc = -0.141196 < 0!!
+densinc = -0.0815642 < 0!!
+densinc = -0.182488 < 0!!
+densinc = -0.119543 < 0!!
+densinc = -0.159752 < 0!!
+densinc = -0.114285 < 0!!
+densinc = -0.174305 < 0!!
+densinc = -0.11276 < 0!!
+densinc = -0.211515 < 0!!
+densinc = -0.106429 < 0!!
+densinc = -0.315818 < 0!!
+densinc = -0.188205 < 0!!
+densinc = -0.257336 < 0!!
+densinc = -0.261551 < 0!!
+densinc = -0.280726 < 0!!
+densinc = -0.066085 < 0!!
+densinc = -0.510041 < 0!!
+densinc = -0.556577 < 0!!
+densinc = -0.537667 < 0!!
+densinc = -0.447963 < 0!!
+densinc = -0.324908 < 0!!
+densinc = -0.214716 < 0!!
+densinc = -0.0987702 < 0!!
+densinc = -0.057049 < 0!!
+densinc = -0.141095 < 0!!
+densinc = -0.0521287 < 0!!
+densinc = -0.0474254 < 0!!
+densinc = -0.400324 < 0!!
+densinc = -0.520092 < 0!!
+densinc = -0.229146 < 0!!
+densinc = -0.235681 < 0!!
+densinc = -0.407899 < 0!!
+densinc = -0.0393888 < 0!!
+densinc = -0.578837 < 0!!
+densinc = -0.653464 < 0!!
+densinc = -0.623918 < 0!!
+densinc = -0.520107 < 0!!
+densinc = -0.363634 < 0!!
+densinc = -0.18167 < 0!!
+densinc = -0.0234358 < 0!!
+densinc = -0.331066 < 0!!
+densinc = -0.0596036 < 0!!
+iter# 2000: Min. Error = 0.292578 using Laplace fit function.
+iter# 4000: Min. Error = 0.311039 using Gauss fit function.
+iter# 6000: Min. Error = 0.310145 using Gauss fit function.
+iter# 8000: Min. Error = 0.303505 using Cauchy fit function.
+iter# 10000: Min. Error = 0.279355 using Cauchy fit function.
+iter# 12000: Min. Error = 0.293173 using Cauchy fit function.
+iter# 14000: Min. Error = 0.269762 using Cauchy fit function.
+iter# 16000: Min. Error = 0.285864 using Cauchy fit function.
+iter# 18000: Min. Error = 0.274317 using Cauchy fit function.
+iter# 20000: Min. Error = 0.307026 using Gauss fit function.
+iter# 22000: Min. Error = 0.30674 using Gauss fit function.
+iter# 24000: Min. Error = 0.243547 using Cauchy fit function.
+iter# 26000: Min. Error = 0.306222 using Gauss fit function.
+iter# 28000: Min. Error = 0.265471 using Cauchy fit function.
+iter# 30000: Min. Error = 0.263312 using Cauchy fit function.
+iter# 32000: Min. Error = 0.231648 using Cauchy fit function.
+iter# 34000: Min. Error = 0.273495 using Cauchy fit function.
+iter# 36000: Min. Error = 0.284406 using Cauchy fit function.
+iter# 38000: Min. Error = 0.29147 using Cauchy fit function.
+
+MY_FUNCTION = sin(xin[i])
+NOISE_TYPE = 1INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.00
+RULE_NUMBER = 2
