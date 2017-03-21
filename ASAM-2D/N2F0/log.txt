@@ -1,0 +1,52 @@
+./ASAM-Main
+File Opening done 
+
+# of Input Data Points= 1000
+NOISE MODE : Uniform
+
+SAM Type: Gauss
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Sinc
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Cauchy
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+Epoch Size: 500
+iter# 0: Min. Error = 0.0837307 using Gauss fit function.
+iter# 500: Min. Error = 0.000781938 using Cauchy fit function.
+iter# 1000: Min. Error = 0.000786256 using Cauchy fit function.
+iter# 1500: Min. Error = 0.000778948 using Cauchy fit function.
+iter# 2000: Min. Error = 0.000781062 using Cauchy fit function.
+iter# 2500: Min. Error = 0.000793955 using Cauchy fit function.
+iter# 3000: Min. Error = 0.000807007 using Sinc fit function.
+iter# 3500: Min. Error = 0.000806748 using Sinc fit function.
+iter# 4000: Min. Error = 0.000806542 using Sinc fit function.
+iter# 4500: Min. Error = 0.000806373 using Sinc fit function.
+iter# 5000: Min. Error = 0.000806231 using Sinc fit function.
+iter# 5500: Min. Error = 0.000806109 using Sinc fit function.
+iter# 6000: Min. Error = 0.000806003 using Sinc fit function.
+iter# 6500: Min. Error = 0.000805909 using Sinc fit function.
+iter# 7000: Min. Error = 0.000805826 using Sinc fit function.
+iter# 7500: Min. Error = 0.000805751 using Sinc fit function.
+iter# 8000: Min. Error = 0.000805683 using Sinc fit function.
+iter# 8500: Min. Error = 0.000805621 using Sinc fit function.
+iter# 9000: Min. Error = 0.000805564 using Sinc fit function.
+iter# 9500: Min. Error = 0.000805511 using Sinc fit function.
+iter# 10000: Min. Error = 0.000805462 using Sinc fit function.
+
+Done. Final min MSE = 0.000805462
+MY_FUNCTION = (sin(fxn1(i,0))*cos(fxn1(i,1)))
+NOISE_TYPE = 2
+INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.414
+RULE_NUMBER = 25

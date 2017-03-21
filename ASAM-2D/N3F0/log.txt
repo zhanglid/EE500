@@ -1,0 +1,52 @@
+./ASAM-Main
+File Opening done 
+
+# of Input Data Points= 1000
+NOISE MODE : Gaussian
+
+SAM Type: Gauss
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Sinc
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Cauchy
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 25
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+Epoch Size: 500
+iter# 0: Min. Error = 0.0634083 using Sinc fit function.
+iter# 500: Min. Error = 2.77151e-05 using Cauchy fit function.
+iter# 1000: Min. Error = 3.74936e-06 using Cauchy fit function.
+iter# 1500: Min. Error = 3.37166e-06 using Cauchy fit function.
+iter# 2000: Min. Error = 2.67851e-06 using Cauchy fit function.
+iter# 2500: Min. Error = 2.11161e-06 using Cauchy fit function.
+iter# 3000: Min. Error = 1.75207e-06 using Cauchy fit function.
+iter# 3500: Min. Error = 1.57001e-06 using Cauchy fit function.
+iter# 4000: Min. Error = 1.4672e-06 using Cauchy fit function.
+iter# 4500: Min. Error = 1.39702e-06 using Cauchy fit function.
+iter# 5000: Min. Error = 1.34189e-06 using Cauchy fit function.
+iter# 5500: Min. Error = 1.29565e-06 using Cauchy fit function.
+iter# 6000: Min. Error = 1.25644e-06 using Cauchy fit function.
+iter# 6500: Min. Error = 1.2237e-06 using Cauchy fit function.
+iter# 7000: Min. Error = 1.19694e-06 using Cauchy fit function.
+iter# 7500: Min. Error = 1.17544e-06 using Cauchy fit function.
+iter# 8000: Min. Error = 1.15835e-06 using Cauchy fit function.
+iter# 8500: Min. Error = 1.1448e-06 using Cauchy fit function.
+iter# 9000: Min. Error = 1.13402e-06 using Cauchy fit function.
+iter# 9500: Min. Error = 1.12537e-06 using Cauchy fit function.
+iter# 10000: Min. Error = 1.11832e-06 using Cauchy fit function.
+
+Done. Final min MSE = 1.11832e-06
+MY_FUNCTION = (sin(fxn1(i,0))*cos(fxn1(i,1)))
+NOISE_TYPE = 3
+INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.414
+RULE_NUMBER = 25

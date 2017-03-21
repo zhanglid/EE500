@@ -1,0 +1,52 @@
+./ASAM-Main
+File Opening done 
+
+# of Input Data Points= 1000
+NOISE MODE : Gaussian
+
+SAM Type: Gauss
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 50
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Sinc
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 50
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+
+SAM Type: Cauchy
+Testing data set size: 1000
+Training data set size: 500
+Number of Rules: 50
+Range of (x,y): (0, 6.40759) x (0, 6.40759)
+Epoch Size: 500
+iter# 0: Min. Error = 718.69 using Sinc fit function.
+iter# 500: Min. Error = 1.51102 using Gauss fit function.
+iter# 1000: Min. Error = 0.629343 using Gauss fit function.
+iter# 1500: Min. Error = 0.407245 using Gauss fit function.
+iter# 2000: Min. Error = 0.322956 using Gauss fit function.
+iter# 2500: Min. Error = 0.282083 using Gauss fit function.
+iter# 3000: Min. Error = 0.258394 using Gauss fit function.
+iter# 3500: Min. Error = 0.242794 using Gauss fit function.
+iter# 4000: Min. Error = 0.231559 using Gauss fit function.
+iter# 4500: Min. Error = 0.222939 using Gauss fit function.
+iter# 5000: Min. Error = 0.216021 using Gauss fit function.
+iter# 5500: Min. Error = 0.21028 using Gauss fit function.
+iter# 6000: Min. Error = 0.205395 using Gauss fit function.
+iter# 6500: Min. Error = 0.201158 using Gauss fit function.
+iter# 7000: Min. Error = 0.197425 using Gauss fit function.
+iter# 7500: Min. Error = 0.194097 using Gauss fit function.
+iter# 8000: Min. Error = 0.191098 using Gauss fit function.
+iter# 8500: Min. Error = 0.188374 using Gauss fit function.
+iter# 9000: Min. Error = 0.185882 using Gauss fit function.
+iter# 9500: Min. Error = 0.183587 using Gauss fit function.
+iter# 10000: Min. Error = 0.181463 using Gauss fit function.
+
+Done. Final min MSE = 0.181463
+MY_FUNCTION = fxn1(i,0)*fxn1(i,0) + fxn1(i,1)*fxn1(i,1)
+NOISE_TYPE = 3
+INPUT_RANGE_START = 0.00
+INPUT_RANGE_END = 6.414
+RULE_NUMBER = 50
